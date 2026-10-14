@@ -4,7 +4,7 @@
 
 本项目为广大开发者与网络技术爱好者提供适配主流客户端（Clash Verge Rev / Mihomo / Shadowrocket / Clash Nyanpasu）的开箱即用规则与高速测试节点[cite: 1]。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 > ### 🎁 客户端专属福利：免费领取 200G 高速体验节点
 > 
@@ -16,7 +16,7 @@
 > 🔗 **快速注册入口**：[点击前往官网直接注册](https://haovpn.xyz)  
 > 📥 **通用测试订阅**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 🛠️ 快速上手教程
 
@@ -25,12 +25,12 @@
 3. 开启「系统代理」并选择延迟最优节点即可使用。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ## 🔗 推荐兄弟项目矩阵
 - [V2Ray & Sing-Box 新协议订阅池](../v2ray-singbox-hysteria2-nodes)
 - [Awesome 免费网络加速导航合集](../awesome-free-vpn-proxy-list)
 
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 <details>
 <summary>🔍 客户端与规则索引（点击展开）</summary>
