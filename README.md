@@ -1,13 +1,15 @@
 # free-clash-meta-verge-rules-Clash-Mihomo-Shadowrocket
 针对 Clash、Clash Verge、Mihomo、Shadowrocket 客户端规则与一键配置。
 # ⚡ Free Clash Meta & Verge Configs | 客户端高速配置规则池
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 本项目为广大开发者与网络技术爱好者提供适配主流客户端（Clash Verge Rev / Mihomo / Shadowrocket / Clash Nyanpasu）的开箱即用规则与高速测试节点[cite: 1]。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 > ### 🎁 客户端专属福利：免费领取 200G 高速体验节点
-> 
+> * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 > 快速拉取依赖、测试流媒体与海外环境支持，现开放专属通道[cite: 1]：
 > - ⚡ **高速流量**：注册即赠 **200 GB** 高速不限速流量[cite: 1]
 > - 🚀 **一键导入**：适配 Clash / Clash Verge / 小火箭等客户端一键订阅[cite: 1]
