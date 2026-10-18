@@ -6,7 +6,8 @@
 本项目为广大开发者与网络技术爱好者提供适配主流客户端（Clash Verge Rev / Mihomo / Shadowrocket / Clash Nyanpasu）的开箱即用规则与高速测试节点[cite: 1]。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
-
+> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 > ### 🎁 客户端专属福利：免费领取 200G 高速体验节点
 > * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
  * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
@@ -21,7 +22,8 @@
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 🛠️ 快速上手教程
-
+> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 1. 打开客户端（以 Clash Verge 为例）。
 2. 在「订阅 / Profiles」中粘贴上方体验链接并保存[cite: 1]。
 3. 开启「系统代理」并选择延迟最优节点即可使用。
